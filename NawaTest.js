@@ -28,6 +28,6 @@ const jumlahBus = (jumlahKeluarga, anggotaSetiapKeluarga)=>{
     return `Minimum bus required is ${Math.ceil(jumlahAnggota/4)}`
 
 }
-// console.log(jumlahBus(jumlahKeluarga,anggotaSetiapKeluarga))
+// console.log(jumlahBus(jumlahKeluarga,anggotaSetiapKeluarga) c)
 
 console.log(jumlahBus(jumlahKeluarga,anggotaSetiapKeluarga))
